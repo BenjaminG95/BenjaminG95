@@ -14,15 +14,16 @@
 
 ## 🙋 About me
 
-- ‍🎓 I am a self-taught and passionate full-stack developer
-- 👨🏻‍🎓 Holder of the professional title of web and mobile web developer
+- ‍👨🏻‍🎓 I am a self-taught and passionate full-stack developer
+- 🎓 Holder of the professional title of web and mobile web developer
+- 🎖️ Holder of OPQUAST Certification [S1XUEW](https://directory.opquast.com/en/certificat/S1XUEW/)
 - 🏠 I live in Paris, France 🇫🇷
-
 - 💼 FullStack developer at [Mintec](https://www.mintecglobal.com/) & [CommoPrices](https://www.commoprices.com/)
 - ❤️ I love coding with Laravel every days & drink coffee ☕
 
 ----
 ## 🧠 Skills
+
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
