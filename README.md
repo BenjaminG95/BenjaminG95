@@ -14,8 +14,10 @@
 
 ## 🙋 About me
 
-- ‍🎓 I'm a self-taught passionate Full-Stack developer
+- ‍🎓 I am a self-taught and passionate full-stack developer
+- 👨🏻‍🎓 Holder of the professional title of web and mobile web developer
 - 🏠 I live in Paris, France 🇫🇷
+
 - 💼 FullStack developer at [Mintec](https://www.mintecglobal.com/) & [CommoPrices](https://www.commoprices.com/)
 - ❤️ I love coding with Laravel every days & drink coffee ☕
 
