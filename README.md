@@ -12,7 +12,7 @@
 
 ----
 
-## 🙋 About me
+## 🙋‍♂️ About me
 
 - ‍👨🏻‍🎓 I am a self-taught and passionate full-stack developer
 - 🎓 Holder of the professional title of web and mobile web developer
