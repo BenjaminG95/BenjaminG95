@@ -39,7 +39,7 @@
       <img width="100%" src="http://github-readme-stats-sortedcord.vercel.app/api?username=BenjaminG95&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>  
       <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=BenjaminG95&theme=dracula&hide_border=true"/>  
    </p>
-_
+
 ## 📚 Language Usage
 
    <p align="center">  
