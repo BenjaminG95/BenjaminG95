@@ -56,7 +56,7 @@
 
    <p align="center"> 
       <a href="https://github.com/BenjaminG95">
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=BenjaminG95&theme=dracula&column=7&margin-w=5&no-frame=true" alt="sortedcord" />
+        <img width="100%" src='https://github-profile-trophy.vercel.app/?username=BenjaminG95&theme=dracula&column=7&margin-w=5&no-frame=true' alt="sortedcord" />
       </a>  
    </p>
 </div>
